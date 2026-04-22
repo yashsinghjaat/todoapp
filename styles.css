@@ -21,11 +21,14 @@ body {
 h1 {
     text-align: center;
     color: #333;
+    
 }
 
 .add-task {
     display: flex;
     margin-bottom: 20px;
+    background-color: #218838;
+    
 }
 
 #task-input {
